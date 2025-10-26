@@ -36,7 +36,7 @@ The following charts are automatically generated in the `/charts` folder and dis
 - Most non-failure samples between 0–60 min; failures are rare and appear at lower values.
 
 ### 2️. Torque vs Failure & RPM vs Failure
-![Torque & RPM vs Failure](charts/torque_rpm_vs_failure.png)
+![Torque & RPM vs Failure](charts/Torque_RPM_vs_Failure.png)
 - **Torque:** 0 = ~20–65 Nm, 1 = mostly <15 Nm  
 - **RPM:** 0 = 1200–2600 rpm, 1 = 1350–2400 rpm  
 - Clear separation indicates Torque and RPM are strong failure predictors.
@@ -78,7 +78,7 @@ The following charts are automatically generated in the `/charts` folder and dis
 - Key factors for predicting failure.
 
 ### 10. RPM vs Torque & Severity Score by Failure
-![RPM vs Torque](charts/rpm_vs_torque_colored_by_failure.png)  
+![RPM vs Torque](charts/rpm_vs_torque_(colored_by_failure).png)  
 ![Severity by Failure](charts/severity_score_by_failure_status.png)
 - RPM inversely related to Torque.  
 - Failure 1 tends to have higher Severity_Score.  
